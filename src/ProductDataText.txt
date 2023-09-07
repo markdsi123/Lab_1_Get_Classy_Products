@@ -1,0 +1,3 @@
+Mobile, 000001, Samsung, 999.0
+Iphone 14, 000002, Apple, 1000.0
+Mobile, Huawei, 000003, 500.0
